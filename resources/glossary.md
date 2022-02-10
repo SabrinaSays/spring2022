@@ -17,6 +17,9 @@ GitHub
 
 push (changes to a repository)
   to put whatever you were working on from your local machine onto a remote copy of the repository in a version control system.
+  
+pull
+  updates the currently checked out local branch. 
 
 
 repository
